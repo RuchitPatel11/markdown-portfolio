@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Ruchit Patel
+## Good Afternoon
+### Welcome to radixweb
